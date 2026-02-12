@@ -1,1 +1,1 @@
-# assignment-1-web-dev-2-js-day-12
+# assignment-1-web-dev-2
